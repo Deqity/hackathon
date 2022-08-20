@@ -1,0 +1,6 @@
+[submodule "deqity-core"]
+	path = deqity-core
+	url = https://github.com/Deqity/deqity-core
+[submodule "deqity-frontend"]
+	path = deqity-frontend
+	url = https://github.com/Deqity/deqity-frontend
