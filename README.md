@@ -1,7 +1,7 @@
 # Buy and Sell Tokenized Equity On Chain
 
 ## Description
-Deqity is designed to be an entirely decentralized marketplace for private company equity. It aims to make company ownership more secure, trustless, and equitable than it has been traditionally. By injecting blockchain technology into companies, we can create a more connected world and, by extension, generate more wealth generation possibilities for people with fewer opportunities. 
+Deqity is designed to be an entirely decentralized marketplace for private company equity. And it aims to make company ownership more secure, trustless, and equitable than it has been traditionally. By injecting blockchain technology into companies, we can create a more connected world and, by extension, generate more wealth generation possibilities for people with fewer opportunities. 
 
 By using the protocol, business owners can tokenize their companies and acquire funding for their ideas. This can be especially helpful for inexperienced business owners who have never secured investors before. And for the small companies, that may be overlooked by investors. Business owners can find investors from all over the globe and thus have a higher probability of raising the funds they need.
 
