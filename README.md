@@ -5,7 +5,7 @@ Deqity is designed to be a entierly decentalized marketplace for private company
 
 By using our protocol, buisness owners can tokenize their companies and get funding for their ideas. This can be esspacailly helpfull for unexperinced buisness owners who have never secured investors before and small companies that may be overlooked by many investors. Buisness owners can find investors from all over the globe thus have a higher probability of raising the funds they need.
 
-Investors can find any type of company, all over the world. And they can buy as small as 1e-16% of a share if they would like to. This level of fractablitiy allows anyone to be investor, even if they cannot afford to buy a whole share.
+Investors can find any type of company, all over the world. And they can buy as small as 1e-16% of a share if they would like. In summary, this level of fractablitiy allows anyone to be investor, even if they cannot afford to buy a whole share.
 
 ## Proof Of IPFS Web3.Storage Use
 Web3.Sorage was used to store user uploaded content (image and description) in a decentalized mannor. The cid is stored on the equity contract and is pulled when displaing the files. These files are then used to attract investors on the search page. Below is an image of the stored files for two deployed equity contracts
