@@ -1,5 +1,5 @@
 # Buy and Sell Tokenized Equity On Chain
-![2022 Polygon Summer Hackathon Video](https://www.youtube.com/watch?v=w7OCmQtcZmk)
+[2022 Polygon Summer Hackathon Video](https://www.youtube.com/watch?v=w7OCmQtcZmk)
 
 ## Description
 Deqity is designed to be an entirely decentralized marketplace for private company equity. And it aims to make company ownership more secure, trustless, and equitable than it has been traditionally. By injecting blockchain technology into companies, we can create a more connected world and, by extension, generate more wealth generation possibilities for people with fewer opportunities. 
