@@ -3,9 +3,9 @@
 ## Description
 Deqity is designed to be an entirely decentralized marketplace for private company equity. And it aims to make company ownership more secure, trustless, and equitable than it has been traditionally. By injecting blockchain technology into companies, we can create a more connected world and, by extension, generate more wealth generation possibilities for people with fewer opportunities. 
 
-By using the protocol, business owners can tokenize their companies and acquire funding for their ideas. This can be especially helpful for inexperienced business owners who have never secured investors before. And for the small companies, that may be overlooked by investors. Business owners can find investors from all over the globe and thus have a higher probability of raising the funds they need.
+By using the protocol, business owners can tokenize their companies and acquire funding for their ideas. This can be especially helpful for inexperienced business owners who have never secured investors. And for the small companies, that may be overlooked by investors. Business owners can find investors from all over the globe and thus have a higher probability of raising funds.
 
-Investors can discover any type of company from anywhere in the world. And they can buy as small as 1e-16% of a share if they like. In summary, this level of fractionability allows anyone to be an investor, even if they cannot afford to buy a whole share.
+Investors can discover many types of companies from anywhere around the world. And they can buy as small as 1e-16% of a share if they like. In summary, this level of fractionability allows anyone to be an investor, even if they cannot afford to buy a whole share.
 
 ## Web3 Integration in Web2 
 Deqity has a similar function and purpose as private equity sales websites such as EquityZen. However, the integration of blockchain technology and tokenization allows our protocol to have significant advantages over our web2 counterparts. Many of the protocol's features listed in the description are exclusive to our protocol when compared to these companies. 
